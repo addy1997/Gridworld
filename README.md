@@ -5,9 +5,7 @@ This repository has grid world environment created using [openai-gym](https://gi
 
 * Usage
 
-#+BEGIN_SRC
-pip install -e grid_world
-#+END_SRC
+pip install -e Grid
 
 
 Currently, it worlks for single agent. The code for multi agent systems will be released soon.
