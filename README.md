@@ -6,7 +6,7 @@ This repository has grid world environment created using [openai-gym](https://gi
 * Usage
 
 #+BEGIN_SRC
-pip install -e Grid
+pip install -e grid_world
 #+END_SRC
 
 
