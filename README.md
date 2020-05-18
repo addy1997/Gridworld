@@ -1,1 +1,1 @@
-# gym-GridEnvironment
+# Grid
