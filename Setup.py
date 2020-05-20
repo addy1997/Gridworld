@@ -15,7 +15,7 @@ setuptools.setup(
     author="Adwait Naik",
     author_email="adwaitnaik2@gmail.com",
     description="Grid world for openai gym",
-    long_description=long_description,
+    long_description=long_description="This package is based on openai-gym for creating the gridworld environment.",
     long_description_content_type="text/markdown",
     url="https://github.com/addy1997/Grid",
     packages=setuptools.find_packages(),
