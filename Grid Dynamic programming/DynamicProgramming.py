@@ -59,7 +59,7 @@ class DynamicProgramming:
                 
     if __name__ == '__main__':
         
-        dynaprog= DynamicProgramming('')
+        dynaprog= DynamicProgramming('Frozenlake-v0')#replace it with the environment of your choice
         policy, Value_fuction = dynaprog.iterative_policy_evaluation()
         
         print("the policy is", policy)
