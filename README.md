@@ -9,7 +9,10 @@
 A grid world environment for single agent based on openAI-gym.
 
 
-
+***Installation***
+```shell
+pip install -i https://test.pypi.org/simple/ Gridworld==0.0.1
+```
 
 
 
