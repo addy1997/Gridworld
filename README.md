@@ -14,5 +14,19 @@ A grid world environment for single agent based on openAI-gym.
 pip3 install -i https://test.pypi.org/simple/ Gridworld==0.0.1
 ```
 
+***Alternative installation***
+```shell
+cd $HOME
+git clone https://github.com/addy1997/Gridworld.git
+cd Gridworld
+virtualenv venv
+source ./venv/bin/activate
+pip install -e .
+```
+
+Note: you will get this message after installation(given below). This validates that the package installation is done properly.
+
+![drube](https://github.com/addy1997/Gridworld/blob/master/Screenshot%202020-06-21%20at%2012.35.27%20AM.png)
+
 
 
