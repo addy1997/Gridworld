@@ -6,7 +6,7 @@
 
 
 
-A grid world environment for single agent based on openAI-gym.
+A grid-based environment for single agent systems based on openAI-gym.
 
 
 ***Installation***
