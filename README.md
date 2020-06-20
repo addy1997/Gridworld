@@ -28,5 +28,7 @@ Note: you will get this message after installation(given below). This validates 
 
 ![drube](https://github.com/addy1997/Gridworld/blob/master/Screenshot%202020-06-21%20at%2012.35.27%20AM.png)
 
+**For errors**
 
+Visit this _[link](https://github.com/donnemartin/gitsome/issues/4)_
 
