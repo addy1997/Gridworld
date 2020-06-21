@@ -36,5 +36,5 @@ import gym
 env = gym.make('Gridworld-v0')
 ```
 
-Feel free to raise issues for any error.
+Feel free to raise an issue for errors.
 
