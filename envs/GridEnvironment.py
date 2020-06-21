@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[72]:
-
 
 #########################################################################################
 """                                                                                     #
@@ -10,7 +5,9 @@ This code was originally written by cxy1997                                     
 I have made some changes to the code.                                                   #
 As long as names of the authors are mentioned: modification, redistribution is permitted#
 """                                                                                     #
-#########################################################################################          
+#########################################################################################     
+
+
 #import the libraries
 import numpy as np
 import os
