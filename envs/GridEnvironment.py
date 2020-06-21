@@ -32,7 +32,7 @@ class GridEnv(gym.Env):
     num_env = 0
     metadata = {'render.modes': ['human']}
     
-    def __init__(self,start, obs_shape, obstacle_mask, terminal_state):
+    def __init__(self):
         
         #action space
         self.actions = ['up', 'down', 'right', 'left', 'begin']
