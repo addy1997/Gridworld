@@ -33,7 +33,7 @@ Visit this _[link](https://github.com/donnemartin/gitsome/issues/4)_
 
 _You do not need to modify baselines repo._
 
-Here is a minimal example. Say you have myenv.py, with all the needed functions (step, reset, ...). The name of the class environment is MyEnv, and you want to add it to the classic_control folder. You have to
+Here is a minimal example. Say you have myenv.py, with all the needed functions (step, reset, ...). The name of the class environment is MyEnv, and you want to add it to the classic_control folder. You have to follow these steps
 
     * Place myenv.py file in gym/gym/envs/classic_control
 
