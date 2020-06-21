@@ -58,7 +58,7 @@ _in gym/gym/envs/__init__.py._
 ```shell
 import Gridworld
 import gym 
-env = gym.make('Gridworld-v0')
+env = gym.make('Grid-v0')
 ```
 
 Feel free to raise an issue for errors.
