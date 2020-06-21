@@ -1,5 +1,0 @@
-name: Gridworld
-dependencies:
-    - python=3.6
-    - matplotlib
-   
