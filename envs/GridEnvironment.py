@@ -6,7 +6,7 @@
 
 #########################################################################################
 """                                                                                     #
-This code was originally written by cxv1997                                             #
+This code was originally written by cxy1997                                             #
 I have made some changes to the code.                                                   #
 As long as names of the authors are mentioned: modification, redistribution is permitted#
 """                                                                                     #
