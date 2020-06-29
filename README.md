@@ -1,8 +1,10 @@
 # Gridworld
 
 <p align="center">
-  <img src="https://github.com/addy1997/Gridworld/blob/master/logo_.png"/>
+  <img src="https://github.com/addy1997/Gridworld/blob/master/image(1).png"/>
 </p>
+
+-------------------------------------------------------------------------------
 
 A grid-based environment for single agent systems based on openAI-gym.
 
