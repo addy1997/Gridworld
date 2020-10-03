@@ -1,5 +1,7 @@
 # Gridworld
 
+<B> Status: Active (under active development, breaking changes may occur) </B>
+
 <p align="center">
   <img src="https://github.com/addy1997/Gridworld/blob/master/image(1).png"/>
 </p>
